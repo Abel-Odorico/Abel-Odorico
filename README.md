@@ -4,15 +4,7 @@
 
 <div align="center">
 
-# Abel Odorico
-
-**Produto · Inteligência Artificial · Automação · Dados · Experiência do Cliente**
-
-Transformo operações complexas em produtos, processos e sistemas que continuam funcionando depois do primeiro deploy.
-
 [LinkedIn](https://www.linkedin.com/in/abel-odorico) · [Site](https://app.abelodorico.com) · [Email](mailto:abelodorico@gmail.com)
-
-📍 Belo Horizonte, Brasil
 
 </div>
 
