@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./assets/adl-banner.svg" alt="Abel Odorico — PeepConnect" width="100%" />
+</div>
+
+<div align="center">
 
 # Abel Odorico
 
